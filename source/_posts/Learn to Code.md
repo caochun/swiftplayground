@@ -1,5 +1,5 @@
 ---
-title: 学习写代码
+title: 0. 开始学习写代码
 date: 2016-07-22 23:17:56
 tags:
 ---
@@ -33,3 +33,4 @@ collectGem()
 
 这些编程语言写的命令与我们人自己说的语言（自然语言）非常相似，只是将自然语言中的空格去掉而已。
 
+> 当前Swift Playgrounds 应用只支持iOS 10的Beta版本，请用你的iPad访问[Apple Beta版软件计划网站](https://beta.apple.com)以安装最新版iOS 10。

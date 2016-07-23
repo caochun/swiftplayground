@@ -1,5 +1,5 @@
 ---
-title: 1. 发命令
+title: 1. 发送指令让Byte动起来
 date: 2016-07-23 12:00:03
 tags:
 ---
@@ -28,5 +28,5 @@ collectGem()
 
 ![发送命令完成](/images/issuingcommands/2.png)
 
-点击Congratulations窗口上的“Next Page”可以进入下一个任务。 See you tomorrow.
+点击Congratulations窗口上的“Next Page”可以进入下一个任务。
 
