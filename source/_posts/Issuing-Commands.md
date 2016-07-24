@@ -1,5 +1,5 @@
 ---
-title: 1. 发送指令让Byte动起来
+title: 1. 发送指令让Byte动起来 (Issuing Commands)
 date: 2016-07-23 12:00:03
 tags:
 ---

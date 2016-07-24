@@ -1,5 +1,5 @@
 ---
-title: 2 使用一个新命令
+title: 2 使用一个新命令 (Adding a New Command)
 date: 2016-07-23 16:39:18
 tags:
 ---
